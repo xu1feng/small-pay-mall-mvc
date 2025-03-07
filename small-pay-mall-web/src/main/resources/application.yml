@@ -1,0 +1,5 @@
+spring:
+  config:
+    name: small-pay-mall-mvc
+  profiles:
+    active: dev
