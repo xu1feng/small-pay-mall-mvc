@@ -7,6 +7,12 @@ server:
       min-spare: 10
     accept-count: 10
 
+# 微信公众号对接
+weixin:
+  config:
+    originalid: gh_a97b1ad5b10f
+    token: b8b6
+
 spring:
   datasource:
     username: root
@@ -26,9 +32,9 @@ spring:
     maxPoolPreparedStatementPerConnectionSize: 20
     filters: stat
 
-mybatis:
-  mapper-locations: classpath:/mybatis/mapper/*.xml
-  config-location:  classpath:/mybatis/config/mybatis-config.xml
+#mybatis:
+#  mapper-locations: classpath:/mybatis/mapper/*.xml
+#  config-location:  classpath:/mybatis/config/mybatis-config.xml
 
 # 日志
 logging:
