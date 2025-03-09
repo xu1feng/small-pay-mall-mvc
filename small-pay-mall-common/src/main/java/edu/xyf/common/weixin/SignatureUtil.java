@@ -1,4 +1,4 @@
-package edu.xyf.common;
+package edu.xyf.common.weixin;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;

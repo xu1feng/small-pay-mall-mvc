@@ -1,4 +1,4 @@
-package edu.xyf.common;
+package edu.xyf.common.weixin;
 
 import com.thoughtworks.xstream.XStream;
 import com.thoughtworks.xstream.core.util.QuickWriter;
