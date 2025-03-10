@@ -1,7 +1,7 @@
 package edu.xyf.service.impl;
 
 import com.google.common.cache.Cache;
-import edu.xyf.domain.po.WeixinTemplateMessageVO;
+import edu.xyf.domain.vo.WeixinTemplateMessageVO;
 import edu.xyf.domain.req.WeixinQrCodeReq;
 import edu.xyf.domain.res.WeixinQrCodeRes;
 import edu.xyf.domain.res.WeixinTokenRes;

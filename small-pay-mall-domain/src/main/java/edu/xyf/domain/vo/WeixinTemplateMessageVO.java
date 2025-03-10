@@ -1,4 +1,4 @@
-package edu.xyf.domain.po;
+package edu.xyf.domain.vo;
 
 import java.util.HashMap;
 import java.util.Map;

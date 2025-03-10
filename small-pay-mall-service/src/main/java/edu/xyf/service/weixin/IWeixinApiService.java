@@ -1,6 +1,6 @@
 package edu.xyf.service.weixin;
 
-import edu.xyf.domain.po.WeixinTemplateMessageVO;
+import edu.xyf.domain.vo.WeixinTemplateMessageVO;
 import edu.xyf.domain.req.WeixinQrCodeReq;
 import edu.xyf.domain.res.WeixinQrCodeRes;
 import edu.xyf.domain.res.WeixinTokenRes;
